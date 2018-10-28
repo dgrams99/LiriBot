@@ -1,10 +1,10 @@
-#LIRI BOT
+# LIRI BOT
 
-##OVERVIEW:
+## OVERVIEW:
 
      LIRI(Language Interpretation and Recognition Interface) is a text based voice assistant just like SIRI 
 
-##INSTRUCTIONS:
+## INSTRUCTIONS:
 
 1. About song:
 
